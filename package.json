@@ -1,0 +1,11 @@
+{
+  "name": "electron101",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "author": "samvaran kashyap rallabandi <samvaran.kashyap@gmail.com>",
+  "license": "MIT"
+}
